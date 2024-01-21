@@ -6,7 +6,7 @@
 // Javascript introduced later in 1996 Internet Explorer
 // Later JavaScript went to ECMA to stop the battle between it and Jscript and got the standarize meaning of a BROWSER providing functionallity to websites on the Web. 
 // ECMA made rules for BROWSERS then.
-// Later ES1,ES2... came but ES5 became popular and Javascript became famous.
+// Later ES1,ES2...came but ES5 became popular and Javascript became famous.
 // In 2015 - ES6 (came with big updates) became most popular and known as MODERN JavaScript we use no.
 // From now JavaScript decided annual releaze so they called (ES7 = ES2017), (ES8 = ES2018)....
 // JS is Backward Compatible = Say, 1994(old years) ka code aaj bhi kaam krega (basically old features are workable)
